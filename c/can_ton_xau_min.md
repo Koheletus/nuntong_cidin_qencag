@@ -4,3 +4,4 @@
 - 例：「」
 - 註：
 - 音頻：
+- Semantic Field：
