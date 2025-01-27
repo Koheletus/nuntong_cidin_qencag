@@ -7,7 +7,7 @@
 Entry format: \
 &nbsp;&nbsp;  field 1: \[Word\] \
 &nbsp;&nbsp;  field 2: Romanization \
-&nbsp;&nbsp;  field 3: Part of speech + definition & note \
+&nbsp;&nbsp;  field 3: Lexical category + definition & note \
 &nbsp;&nbsp;  field 4: Example sentence \
 &nbsp;&nbsp;  field 5: Orthography discussion \
 &nbsp;&nbsp;  field 6: Semantic field \
